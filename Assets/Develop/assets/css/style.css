@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -87,22 +87,14 @@ aside {
 }
 /* changed benefit to aside */
 
-.benefit-lead {
+section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* deleted redundant css */
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
