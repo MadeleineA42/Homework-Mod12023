@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* changed div to nav for all headers */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-
+    /* took out background image */
     background-size: cover;
     background-position: center;
 }
