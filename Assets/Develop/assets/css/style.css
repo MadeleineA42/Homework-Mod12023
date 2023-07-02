@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* added hero image to css */
 .float-left {
     float: left;
     margin-right: 25px;
