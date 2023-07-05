@@ -8,3 +8,5 @@ All the images for this mock up contain descriptions for those who may be visual
 
 ```
 <img src="./assets/01-html-css-git-homework-demo.png" alt="image of final Horiseon website" title="Horiseon website">
+
+The link to the deployed site: https://madeleinea42.github.io/Homework-Mod12023/
